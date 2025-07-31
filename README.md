@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Martins</h1>
 <h3 align="center">Estudante de engenharia da computação no IFTM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabirel77&label=Profile%20views&color=0e75b6&style=flat" alt="gabirel77" /> </p>
-
 - 🌱 Atualmente estudando **React, Figma e Python**
 
 <h3 align="left">Como me contactar:</h3>
